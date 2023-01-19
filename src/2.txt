@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Changed 1
 Changed 2	
-=======
-Changed 1
->>>>>>> 44097a425f4ad2af37afa2557a88fdeb06de32fb
+Changed 3
